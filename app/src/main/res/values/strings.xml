@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PruebaJPC</string>
+    <string name="text_call_service">Call Service</string>
+    <string name="text_response">Response</string>
+    <string name="text_add">Add</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="text_remove">Remove All Entries</string>
+    <string name="text_sort">Sort Ascending</string>
+    <string name="text_number_list">Number List</string>
+    <string name="text_go_to_list_activity">Go To List Activity</string>
+</resources>
